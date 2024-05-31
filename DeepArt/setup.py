@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 30 20:01:17 2024
-
-@author: meill
-"""
 from setuptools import setup, find_packages
 
 
